@@ -8,13 +8,13 @@ I don't stick to one lane. One week it's computer vision, the next it's a rule e
 
 **[NyAI](https://github.com/Dheeraj-Murthy/NLP_PE)** *(ongoing)* — teaching models to parse legal documents by their actual structure, not as generic text.
 
-**[Alexa+ MCP](https://github.com/MJTheGreat3/Alexa-_MCP)** — MCP server that turns meeting notes into coordinated action across Linear, Notion, and Slack, driven by an agent reasoning over the transcript.
-
 **[Vestique](https://github.com/MJTheGreat3/Vestique)** — multimodal fashion search: YOLO spots the garment, BLIP2 describes it, CLIP embeds it, closest match retrieved.
 
 **[Traffic Management System](https://github.com/Dheeraj-Murthy/dm)** — C++ simulator + Go backend + a SQL-backed rule engine reacting to sensor/signal events in real time.
 
 **[CRAS](https://github.com/MJTheGreat3/CRAS)** — Contamination Risk Analysis and Alert System, models contamination spread over a hydrology network.
+
+**[Alexa+ MCP](https://github.com/MJTheGreat3/Alexa-_MCP)** — MCP server that turns meeting notes into coordinated action across Linear, Notion, and Slack, driven by an agent reasoning over the transcript.
 
 **[Audio Editor](https://github.com/Dheeraj-Murthy/AudioEditor)** — a Java-based editor for poking at waveforms when I run out of visual/text data to mess with.
 
