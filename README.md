@@ -6,7 +6,9 @@ I don't stick to one lane. One week it's computer vision, the next it's a rule e
 
 ### Some favorites
 
-**[Legal NLP](https://github.com/Dheeraj-Murthy/NLP_PE)** *(ongoing)* — teaching models to parse legal documents by their actual structure, not as generic text.
+**[NyAI](https://github.com/Dheeraj-Murthy/NLP_PE)** *(ongoing)* — teaching models to parse legal documents by their actual structure, not as generic text.
+
+**[Alexa+ MCP](https://github.com/MJTheGreat3/Alexa-_MCP)** — MCP server that turns meeting notes into coordinated action across Linear, Notion, and Slack, driven by an agent reasoning over the transcript.
 
 **[Vestique](https://github.com/MJTheGreat3/Vestique)** — multimodal fashion search: YOLO spots the garment, BLIP2 describes it, CLIP embeds it, closest match retrieved.
 
