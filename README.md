@@ -8,6 +8,8 @@ I don't stick to one lane. One week it's computer vision, the next it's a rule e
 
 **[NyAI](https://github.com/Dheeraj-Murthy/NLP_PE)** *(ongoing)* — teaching models to parse legal documents by their actual structure, not as generic text.
 
+**[Kaizen](https://github.com/MJTheGreat3/Kaizen)** *(ongoing)* — a local-first life tracker for my laptop and phone: coding practice and GitHub, gym and sports, habits, focus timer and more, end-to-end encrypted and synced between devices with no server of its own.
+
 **[Vestique](https://github.com/MJTheGreat3/Vestique)** — multimodal fashion search: YOLO spots the garment, BLIP2 describes it, CLIP embeds it, closest match retrieved.
 
 **[Traffic Management System](https://github.com/Dheeraj-Murthy/dm)** — C++ simulator + Go backend + a SQL-backed rule engine reacting to sensor/signal events in real time.
