@@ -4,7 +4,7 @@
 
 ```bash
 $ whoami
-Mathew Joseph (Matt)
+you already know 😏
 $ uptime
 building since the first "hello world" 🚀
 ```
