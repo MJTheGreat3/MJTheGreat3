@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="627" height="232" viewBox="0 0 627 232" role="img" aria-label="MATT">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="627" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#00e5ff"/><stop offset="0.35" stop-color="#7c4dff"/><stop offset="0.7" stop-color="#ff4081"/><stop offset="1" stop-color="#ffd740"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="627 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+<g font-family="SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="22" style="white-space:pre">
+<text x="30" y="50" xml:space="preserve" fill="url(#g)">███╗   ███╗   █████╗   ████████╗  ████████╗</text>
+<text x="30" y="72" xml:space="preserve" fill="url(#g)">████╗ ████║  ██╔══██╗  ╚══██╔══╝  ╚══██╔══╝</text>
+<text x="30" y="94" xml:space="preserve" fill="url(#g)">██╔████╔██║  ███████║     ██║        ██║   </text>
+<text x="30" y="116" xml:space="preserve" fill="url(#g)">██║╚██╔╝██║  ██╔══██║     ██║        ██║   </text>
+<text x="30" y="138" xml:space="preserve" fill="url(#g)">██║ ╚═╝ ██║  ██║  ██║     ██║        ██║   </text>
+<text x="30" y="160" xml:space="preserve" fill="url(#g)">╚═╝     ╚═╝  ╚═╝  ╚═╝     ╚═╝        ╚═╝   </text>
+</g>
+<text x="30" y="206" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#8b949e">&gt; idea / prototype / ships<tspan fill="#00e5ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
+</svg>

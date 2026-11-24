@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="./banner.svg" alt="MATT" width="640"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/prototype-first-00e5ff?style=for-the-badge&labelColor=0d1117" alt="prototype first"/>
+  <img src="https://img.shields.io/badge/ML%20%2B%20Systems-7c4dff?style=for-the-badge&labelColor=0d1117" alt="ML + Systems"/>
+  <img src="https://img.shields.io/badge/ships%20weird%20stuff-ff4081?style=for-the-badge&labelColor=0d1117" alt="ships weird stuff"/>
+  <img src="https://img.shields.io/badge/runs%20on-curiosity-ffd740?style=for-the-badge&labelColor=0d1117" alt="runs on curiosity"/>
+</p>
+
+```bash
+$ whoami
+Mathew Joseph (Matt)
+$ cat focus.txt
+CV / NLP / Agents / Backend Systems / DevSecOps
+$ uptime
+building since the first "hello world" 🚀
+```
+
+---
+
 ## 👋 Hey, I'm Matt
 
 I like taking an idea from a blank page to something that actually runs — not just picking a framework and gluing tutorials together, but figuring out the architecture, the data flow, the weird edge cases, from the ground up. 🛠️ Give me a vague problem and I'll come back with a working prototype and three opinions about how to make it better.
